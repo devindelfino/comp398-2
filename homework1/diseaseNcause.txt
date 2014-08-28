@@ -1,0 +1,247 @@
+﻿A
+Acinetobacter infections is caused by Acinetobacter baumannii
+Actinomycosis is caused by Actinomyces israelii, Actinomyces gerencseriae and Propionibacterium propionicus
+African sleeping sickness (African trypanosomiasis) is caused by Trypanosoma brucei
+AIDS (Acquired immunodeficiency syndrome) is caused by HIV (Human immunodeficiency virus)
+Amebiasis is caused by Entamoeba histolytica
+Anaplasmosis is caused by Anaplasma genus
+Anthrax is caused by Bacillus anthracis
+Arcanobacterium haemolyticum infection is caused by Arcanobacterium haemolyticum
+Argentine hemorrhagic fever is caused by Junin virus
+Ascariasis is caused by Ascaris lumbricoides
+Aspergillosis is caused by Aspergillus genus
+Astrovirus infection is caused by Astroviridae family
+B
+Babesiosis is caused by Babesia genus
+Bacillus cereus infection is caused by Bacillus cereus
+Bacterial pneumonia is caused by multiple bacteria
+Bacterial vaginosis (BV) is caused by multiple bacteria
+Bacteroides infection is caused by Bacteroides genus
+Balantidiasis is caused by Balantidium coli
+Baylisascaris infection is caused by Baylisascaris genus
+BK virus infection is caused by BK virus
+Black piedra is caused by Piedraia hortae
+Blastocystis hominis infection is caused by Blastocystis hominis
+Blastomycosis is caused by Blastomyces dermatitidis
+Bolivian hemorrhagic fever is caused by Machupo virus
+Borrelia infection is caused by Borrelia genus
+Botulism (and Infant botulism) is caused by Clostridium botulinum
+Brazilian hemorrhagic fever is caused by Sabia
+Brucellosis is caused by Brucella genus
+Bubonic plague is caused by the bacterial family Enterobacteriaceae
+Burkholderia infection is caused by usually Burkholderia cepacia and other Burkholderia species
+Buruli ulcer is caused by Mycobacterium ulcerans
+C
+Calicivirus infection (Norovirus and Sapovirus) is caused by Caliciviridae family
+Campylobacteriosis is caused by Campylobacter genus
+Candidiasis (Moniliasis; Thrush) is caused by usually Candida albicans and other Candida species
+Cat-scratch disease is caused by Bartonella henselae
+Cellulitis is caused by usually Group A Streptococcus and Staphylococcus
+Chagas Disease (American trypanosomiasis) is caused by Trypanosoma cruzi
+Chancroid is caused by Haemophilus ducreyi
+Chickenpox is caused by Varicella zoster virus (VZV)
+Chikungunya is caused by Alphavirus
+Chlamydia is caused by Chlamydia trachomatis
+Chlamydophila pneumoniae infection (Taiwan acute respiratory agent or 
+TWAR) is caused by Chlamydophila pneumoniae
+Cholera is caused by Vibrio cholerae
+Chromoblastomycosis is caused by usually Fonsecaea pedrosoi
+Clonorchiasis is caused by Clonorchis sinensis
+Clostridium difficile infection is caused by Clostridium difficile
+Coccidioidomycosis is caused by Coccidioides immitis and Coccidioides posadasii
+Colorado tick fever (CTF) is caused by Colorado tick fever virus (CTFV)
+Common cold (Acute viral rhinopharyngitis; Acute coryza) is caused by usually rhinoviruses and coronaviruses.
+Creutzfeldt-Jakob disease (CJD) is caused by PRNP
+Crimean-Congo hemorrhagic fever (CCHF) is caused by Crimean-Congo hemorrhagic fever virus
+Cryptococcosis is caused by Cryptococcus neoformans
+Cryptosporidiosis is caused by Cryptosporidium genus
+Cutaneous larva migrans (CLM) is caused by usually Ancylostoma braziliense; multiple other parasites
+Cyclosporiasis is caused by Cyclospora cayetanensis
+Cysticercosis is caused by Taenia solium
+Cytomegalovirus infection is caused by Cytomegalovirus
+D
+Dengue fever is caused by Dengue viruses (DEN-1, DEN-2, DEN-3 and DEN-4); Flaviviruses
+Dientamoebiasis is caused by Dientamoeba fragilis
+Diphtheria is caused by Corynebacterium diphtheriae
+Diphyllobothriasis is caused by Diphyllobothrium
+Dracunculiasis is caused by Dracunculus medinensis
+E
+Ebola hemorrhagic fever is caused by Ebolavirus (EBOV)
+Echinococcosis is caused by Echinococcus genus
+Ehrlichiosis is caused by Ehrlichia genus
+Enterobiasis (Pinworm infection) is caused by Enterobius vermicularis
+Enterococcus infection is caused by Enterococcus genus
+Enterovirus infection is caused by Enterovirus genus
+Epidemic typhus is caused by Rickettsia prowazekii
+Erythema infectiosum (Fifth disease) is caused by Parvovirus B19
+Exanthem subitum (Sixth disease) is caused by Human herpesvirus 6 (HHV-6) and Human herpesvirus 7 (HHV-7)
+Epstein-Barr Virus Infectious Mononucleosis (Mono) is caused by Epstein-Barr Virus (EBV)
+F
+Fasciolopsiasis is caused by Fasciolopsis buski
+Fasciolosis is caused by Fasciola hepatica and Fasciola gigantica
+Fatal familial insomnia (FFI) is caused by PRNP
+Filariasis is caused by Filarioidea superfamily
+Food poisoning by Clostridium perfringens is caused by Clostridium perfringens
+Free-living amebic infection is caused by multiple
+Fusobacterium infection is caused by Fusobacterium genus
+G
+Gas gangrene (Clostridial myonecrosis) is caused by usually Clostridium perfringens; other Clostridium species
+Geotrichosis is caused by Geotrichum candidum
+Gerstmann-Sträussler-Scheinker syndrome (GSS) is caused by PRNP
+Giardiasis is caused by Giardia intestinalis
+Glanders is caused by Burkholderia mallei
+Gnathostomiasis is caused by Gnathostoma spinigerum and Gnathostoma hispidum
+Gonorrhea is caused by Neisseria gonorrhoeae
+Granuloma inguinale (Donovanosis) is caused by Klebsiella granulomatis
+Group A streptococcal infection is caused by Streptococcus pyogenes
+Group B streptococcal infection is caused by Streptococcus agalactiae
+H
+Haemophilus influenzae infection is caused by Haemophilus influenzae
+Hand is caused by  foot and mouth disease (HFMD),Enteroviruses, mainly Coxsackie A virus and Enterovirus 71 (EV71)
+Hantavirus Pulmonary Syndrome (HPS) is caused by Sin Nombre virus
+Heartland virus disease is caused by Heartland virus
+Helicobacter pylori infection is caused by Helicobacter pylori
+Hemolytic-uremic syndrome (HUS) is caused by Escherichia coli O157:H7, O111 and O104:H4
+Hemorrhagic fever with renal syndrome (HFRS) is caused by Bunyaviridae family
+Hepatitis A is caused by Hepatitis A Virus
+Hepatitis B is caused by Hepatitis B Virus
+Hepatitis C is caused by Hepatitis C Virus
+Hepatitis D is caused by Hepatitis D Virus
+Hepatitis E is caused by Hepatitis E Virus
+Herpes simplex is caused by Herpes simplex virus 1 and 2 (HSV-1 and HSV-2)
+Histoplasmosis is caused by Histoplasma capsulatum
+Hookworm infection is caused by Ancylostoma duodenale and Necator americanus
+Human bocavirus infection is caused by Human bocavirus (HBoV)
+Human ewingii ehrlichiosis is caused by Ehrlichia ewingii
+Human granulocytic anaplasmosis (HGA) is caused by Anaplasma phagocytophilum
+Human metapneumovirus infection is caused by Human metapneumovirus (hMPV)
+Human monocytic ehrlichiosis is caused by Ehrlichia chaffeensis
+Human papillomavirus (HPV) infection is caused by Human papillomavirus (HPV)
+Human parainfluenza virus infection is caused by Human parainfluenza viruses (HPIV)
+Hymenolepiasis is caused by Hymenolepis nana and Hymenolepis diminuta
+I
+Influenza (flu) is caused by Orthomyxoviridae family
+Isosporiasis is caused by Isospora belli
+K
+Kawasaki disease is caused by unknown; evidence supports that it is infectious
+Keratitis is caused by multiple
+Kingella kingae infection is caused by Kingella kingae
+Kuru is caused by PRNP
+L
+Lassa fever is caused by Lassa virus
+Legionellosis (Legionnaires' disease) is caused by Legionella pneumophila
+Legionellosis (Pontiac fever) is caused by Legionella pneumophila
+Leishmaniasis is caused by Leishmania genus
+Leprosy is caused by Mycobacterium leprae and Mycobacterium lepromatosis
+Leptospirosis is caused by Leptospira genus
+Listeriosis is caused by Listeria monocytogenes
+Lyme disease (Lyme borreliosis) is caused by usually Borrelia burgdorferi and other Borrelia species
+Lymphatic filariasis (Elephantiasis) is caused by Wuchereria bancrofti and Brugia malayi
+Lymphocytic choriomeningitis is caused by Lymphocytic choriomeningitis virus (LCMV)
+M
+Malaria is caused by Plasmodium genus
+Marburg hemorrhagic fever (MHF) is caused by Marburg virus
+Measles is caused by Measles virus
+Middle East respiratory syndrome (MERS) is caused by Middle East respiratory syndrome coronavirus
+Melioidosis (Whitmore's disease) is caused by Burkholderia pseudomallei
+Meningitis is caused by multiple
+Meningococcal disease is caused by Neisseria meningitidis
+Metagonimiasis is caused by usually Metagonimus yokagawai
+Microsporidiosis is caused by Microsporidia phylum
+Molluscum contagiosum (MC) is caused by Molluscum contagiosum virus (MCV)
+Monkeypox is caused by Monkeypox virus
+Mumps is caused by Mumps virus
+Murine typhus (Endemic typhus) is caused by Rickettsia typhi
+Mycoplasma pneumonia is caused by Mycoplasma pneumoniae
+Mycetoma is caused by numerous species of bacteria (Actinomycetoma) and fungi (Eumycetoma)
+Myiasis is caused by parasitic dipterous fly larvae
+N
+Neonatal conjunctivitis (Ophthalmia neonatorum) is caused by most commonly Chlamydia trachomatis and Neisseria gonorrhoeae
+(New) Variant Creutzfeldt-Jakob disease (vCJD is caused by  nvCJD),PRNP
+Nocardiosis is caused by usually Nocardia asteroides and other Nocardia species
+O
+Onchocerciasis (River blindness) is caused by Onchocerca volvulus
+P
+Paracoccidioidomycosis (South American blastomycosis) is caused by Paracoccidioides brasiliensis
+Paragonimiasis is caused by usually Paragonimus westermani and other Paragonimus species
+Pasteurellosis is caused by Pasteurella genus
+Pediculosis capitis (Head lice) is caused by Pediculus humanus capitis
+Pediculosis corporis (Body lice) is caused by Pediculus humanus corporis
+Pediculosis pubis (Pubic lice is caused by  Crab lice),Phthirus pubis
+Pelvic inflammatory disease (PID) is caused by multiple
+Pertussis (Whooping cough) is caused by Bordetella pertussis
+Plague is caused by Yersinia pestis
+Pneumococcal infection is caused by Streptococcus pneumoniae
+Pneumocystis pneumonia (PCP) is caused by Pneumocystis jirovecii
+Pneumonia is caused by multiple
+Poliomyelitis is caused by Poliovirus
+Prevotella infection is caused by Prevotella genus
+Primary amoebic meningoencephalitis (PAM) is caused by usually Naegleria fowleri
+Progressive multifocal leukoencephalopathy is caused by JC virus
+Psittacosis is caused by Chlamydophila psittaci
+Q
+Q fever is caused by Coxiella burnetii
+R
+Rabies is caused by Rabies virus
+Rat-bite fever is caused by Streptobacillus moniliformis and Spirillum minus
+Respiratory syncytial virus infection is caused by Respiratory syncytial virus (RSV)
+Rhinosporidiosis is caused by Rhinosporidium seeberi
+Rhinovirus infection is caused by Rhinovirus
+Rickettsial infection is caused by Rickettsia genus
+Rickettsialpox is caused by Rickettsia akari
+Rift Valley fever (RVF) is caused by Rift Valley fever virus
+Rocky Mountain spotted fever (RMSF) is caused by Rickettsia rickettsii
+Rotavirus infection is caused by Rotavirus
+Rubella is caused by Rubella virus
+S
+Salmonellosis is caused by Salmonella genus
+SARS (Severe Acute Respiratory Syndrome) is caused by SARS coronavirus
+Scabies is caused by Sarcoptes scabiei
+Schistosomiasis is caused by Schistosoma genus
+Sepsis is caused by multiple
+Shigellosis (Bacillary dysentery) is caused by Shigella genus
+Shingles (Herpes zoster) is caused by Varicella zoster virus (VZV)
+Smallpox (Variola) is caused by Variola major or Variola minor
+Sporotrichosis is caused by Sporothrix schenckii
+Staphylococcal food poisoning is caused by Staphylococcus genus
+Staphylococcal infection is caused by Staphylococcus genus
+Strongyloidiasis is caused by Strongyloides stercoralis
+Subacute sclerosing panencephalitis is caused by Measles virus
+Syphilis is caused by Treponema pallidum
+T
+Taeniasis is caused by Taenia genus
+Tetanus (Lockjaw) is caused by Clostridium tetani
+Tinea barbae (Barber's itch) is caused by usually Trichophyton genus
+Tinea capitis (Ringworm of the Scalp) is caused by usually Trichophyton tonsurans
+Tinea corporis (Ringworm of the Body) is caused by usually Trichophyton genus
+Tinea cruris (Jock itch) is caused by usually Epidermophyton floccosum, Trichophyton rubrum, and Trichophyton 
+mentagrophytes
+Tinea manum (Ringworm of the Hand) is caused by Trichophyton rubrum
+Tinea nigra is caused by usually Hortaea werneckii
+Tinea pedis (Athlete’s foot) is caused by usually Trichophyton genus
+Tinea unguium (Onychomycosis) is caused by usually Trichophyton genus
+Tinea versicolor (Pityriasis versicolor) is caused by Malassezia genus
+Toxocariasis (Ocular Larva Migrans (OLM)) is caused by Toxocara canis or Toxocara cati
+Toxocariasis (Visceral Larva Migrans (VLM)) is caused by Toxocara canis or Toxocara cati
+Trinochccliasis is caused by Toxoplasma gondii
+Trichinlosis is caused by Trichinella spiralis
+Trichomoniasis is caused by Trichomonas vaginalis
+Trichuriasis (Whipworm infection) is caused by Trichuris trichiura
+Tuberculosis is caused by usually Mycobacterium tuberculosis
+Tularemia is caused by Francisella tularensis
+U
+Ureaplasma urealyticum infection is caused by Ureaplasma urealyticum
+V
+Valley fever is caused by Coccidioides immitis or Coccidioides posadasii
+Venezuelan equine encephalitis is caused by Venezuelan equine encephalitis virus
+Venezuelan hemorrhagic fever is caused by Guanarito virus
+Viral pneumonia is caused by multiple viruses
+W
+West Nile Fever is caused by West Nile virus
+White piedra (Tinea blanca) is caused by Trichosporon beigelii
+Y
+Yersinia pseudotuberculosis infection is caused by Yersinia pseudotuberculosis
+Yersiniosis is caused by Yersinia enterocolitica
+Yellow fever is caused by Yellow fever virus
+Z
+Zygomycosis is caused by Mucorales order (Mucormycosis) and Entomophthorales order(Entomophthoramycosis)
