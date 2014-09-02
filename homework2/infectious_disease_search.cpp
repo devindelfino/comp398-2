@@ -1,3 +1,15 @@
+/*infectious_disease_search.cpp
+Description: (1) Creates and populates a linked list containing infectious diseases and their causes read in
+				 from a flat file database.
+			 (2) Allows user to display either (a) every infectious disease and cause (b) every infectious disease 
+				 and cause starting from a user-specified letter (c) every infectious disease and cause up to a
+				 user-specified letter (d) every infectious disease and cause in range (start,end).   
+
+
+
+
+*/
+
 #include "stdafx.h"
 #include "Node.h"
 #include <iostream>
