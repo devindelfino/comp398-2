@@ -4,7 +4,7 @@ Header files- N/A: No header files were used.
 Scoping- Follows style guide
 Classes- Using a struct to make nodes for linked list.  Google style guide prefers classes
 Google specific magic-N/A
-Other C++ features- N/A
+Other C++ features- Google style guide does not allow streams.
 Naming- Names of variables in a struct or class should end with a _
       - Filenames should be all lowercase and can include underscores
 Comments- Node struct should have comment describing what it does
