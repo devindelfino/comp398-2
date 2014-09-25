@@ -1,0 +1,2 @@
+Accessibility: Uses inline svg and text.
+Data extraction: Calculated the total enrollment in each major for the past 5 semesters by manually adding up the total amount of students enrolled in every class offered in the two majors. 

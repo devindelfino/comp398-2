@@ -1,0 +1,11 @@
+#border{stroke:black; stroke-width:12;}
+#ticks{stroke:black;fill:black;}
+
+#math{fill:orange;}
+#cs{fill:blue;}
+
+#title{font-family:"Lucida Console", Monaco, monospace;font-weight:900;font-size:35px}
+#label{font-family:"Trebuchet MS", Helvetica, sans-serif;font-weight:bold;font-size:25px}
+#enrollment{font-family:"Trebuchet MS", Helvetica, sans-serif;font-weight:bold;font-size:20px}
+#t_label{font-family:"Times New Roman", Times, serif;font-weight:bold;font-size:18px}
+
