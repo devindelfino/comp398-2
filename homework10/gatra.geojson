@@ -1,0 +1,69 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+		"geometry":
+			{"type": "Point", "coordinates": [-71.185860, 41.966384] }, 
+			"properties": {"Wheaton College": "Route Start/End across from slype"}
+			
+		},
+		{ "type": "Feature",
+		"geometry":
+			{"type": "Point", "coordinates": [-71.208944, 41.981630] }, 
+			"properties": {"Great Woods Plaza" : "Roche Bros, Dollar Tree, Mandarin, Dunkin' Donuts, Fiesta, Asia Grill, TGI Fridays, and McDonalds"}
+		},
+		{ "type": "Feature",
+		"geometry":
+			{"type": "Point", "coordinates": [-71.226079, 42.010712]}, 
+			"properties": {"Mansfield Crossing": "Papa Ginos, Chipotle, Qdoba, Buffalo Wild Wings, and Bertucci's"}
+		},
+		
+		{ "type": "Feature",
+		"geometry":
+			{"type": "Point", "coordinates": [-71.219774, 42.032497]}, 
+			"properties": {"Mansfield Commuter Rail Station" : "Trains to Boston and Providence"}
+		},
+
+		{ "type": "Feature",
+		"geometry":
+			{"type": "LineString", "coordinates": [ 
+				[-71.185658, 41.965061],
+				[-71.186945, 41.965093],
+				[-71.186967, 41.965875],
+				[-71.187889, 41.967056],
+				[-71.188168, 41.966832],
+				[-71.191837, 41.971714],
+				[-71.196687, 41.975144],
+				[-71.200989, 41.976771],
+				[-71.203650, 41.979419],
+				[-71.209165, 41.980552],
+				[-71.210731, 41.982450],
+				[-71.210538, 41.998398],
+				[-71.211305, 42.001659],
+				[-71.210661, 42.005518],
+				[-71.212850, 42.007655],
+				[-71.214352, 42.015626],
+				[-71.214266, 42.019102],
+				[-71.226025, 42.018241],
+				[-71.231046, 42.015180],
+				[-71.226079, 42.010712],
+				[-71.231046, 42.015180],
+				[-71.227527, 42.017221],
+				[-71.233514, 42.030674],
+				[-71.232784, 42.031152],
+				[-71.229351, 42.030355],
+				[-71.224587, 42.030929],
+				[-71.223386, 42.030833],
+				[-71.218676, 42.032061],
+				[-71.218751, 42.032738],
+				[-71.218568, 42.032770],
+				[-71.217892, 42.034667],
+				[-71.217206, 42.035591],
+				[-71.217281, 42.035750],
+				[-71.217699, 42.035750],
+				[-71.219774, 42.032497]
+			] },
+			"properties": {"Path": "Gatra Route 140"}
+		}
+	]
+}
+
